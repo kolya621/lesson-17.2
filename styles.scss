@@ -1,0 +1,14 @@
+ $color: red;
+
+ body {
+ 	background-color: aqua;
+
+ 	p {
+ 		color: $color;
+ 	}
+
+ 	h1 {
+ 		color: $color;
+ 		margin-left: 100px;
+ 	}
+ }
